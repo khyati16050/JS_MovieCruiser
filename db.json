@@ -1,5 +1,10 @@
 {
   "movies": [
+    {"id": 1,"title": "don","posterPath": "../images/The_Unique_Lama.jpg"},
+    {"id": 2,"title": "aag","posterPath": "../images/The_Lol_Lama.jpg"},
+    {"id": 3,"title": "abss","posterPath": "../images/No_Lama.jpg"},
+    {"id": 4,"title": "abc","posterPath": "../images/absLama.jpg"}
+
   ],
   "favourites": [
   ]
